@@ -5,9 +5,8 @@ Just my another public web pages hosted on Github Pages
 Sebenarnya halaman website adalah untuk memenuhi tugas di berikan selama masa [Phase-0] (https://github.com/hacktiv8/phase-0-activities) (Semacam Matrikulasi) [Week 1 Day 5] (https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-1.md#jumat---satu-langkah-menjadi-expert-html-dan-css) di [Hacktiv8 Coding Bootcamp] (https://hacktiv8.com),
 yaitu membuat halaman website yang kita buat dideploy online dengan memanfaatkan layanan geratis dari [Github Pages] (https://pages.github.com)
 
-__Note :__
-
-Tampilan pada website ini memang ala kadarnya, setelah web page ini dinilai, saya berencana menggunakan [Jekyll Now] (http://www.barryclark.co/introducing-jekyll-now/)
+## Future plan for this simple site :
+- Saya berencana menggunakan [Jekyll Now] (http://www.barryclark.co/introducing-jekyll-now/) Simple is more :D
 
 ## Used Tags & Syntaxes:
 __HTML Tag__
