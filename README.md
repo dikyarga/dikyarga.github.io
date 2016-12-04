@@ -19,25 +19,25 @@ __HTML Tag__
 - < meta />
 - < body >
 - < h1 >
-- <h2>
-- <ul>
-- <ol>
-- <li>
-- <p>
-- <img/>
-- <br/>
-- <b>
-- <i>
-- <table>
-- <tr>
-- <td>
-- <form>
-- <label>
-- <input>
-- <select>
-- <textarea>
-- <div>
-- <footer>
+- < h2 >
+- < ul >
+- < ol >
+- < li >
+- < p >
+- < img/ >
+- < br/ >
+- < b >
+- < i >
+- < table >
+- < tr >
+- < td >
+- < form >
+- < label >
+- < input >
+- < select >
+- < textarea >
+- < div >
+- < footer >
 
 _WOW banyak sekali ternyata tag dalam halam sesederhana itu_
 
