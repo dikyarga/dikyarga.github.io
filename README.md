@@ -9,15 +9,16 @@ __Note :__
 
 Tampilan pada website ini memang ala kadarnya, setelah web page ini dinilai, saya berencana menggunakan Jekkly Now
 
-## Used Tags & Syntaxes: Daftar tag HTML dan CSS yang kalian gunakan untuk membuat website tersebut.
+## Used Tags & Syntaxes:
 __HTML Tag__
-- <html>
-- <head>
-- <title>
-- <link/>
-- <meta/>
-- <body>
-- <h1>
+
+- < html >
+- < head >
+- < title >
+- < link />
+- < meta />
+- < body >
+- < h1 >
 - <h2>
 - <ul>
 - <ol>
@@ -43,17 +44,17 @@ _WOW banyak sekali ternyata tag dalam halam sesederhana itu_
 __CSS Tag & Atribut__
 - ID #
 - Class .
-- widht
+- width
 - height
 - margin
 - padding
 - background
-- background-color
-- background-size
+- - background-color
+- - background-size
 - text-align
 - border
-- border-radius
-- border-style
+- - border-radius
+- - border-style
 - font-family
 - font-size
 - font-style
@@ -76,6 +77,4 @@ Kedua komunitas tersbut adalah organisasi non-profit, untuk mencari penghasilan 
 
 Tech stack yang biasa saya gunakan adalah Laravel 5+ untuk back-end dan VueJS 2+ untuk front-end.
 
-Saya sudah belajar JS setahun ini, namun tetap saja merasa tidak sepenuhnya paham (hanya sebatas menggunakan, belum sampai di level mengerti bagaimana hal tersebut berkerja). Karena itu saya mengikuti awesome coding bootcamp ini!
-
-Kalo pengen kepo tentang saya, mampir saja ke : [DikyArga.com] (http://dikyarga.com) disana ada link untuk ke social media + chat Telegram saya 😄 
+Kalo pengen kepo tentang saya, mampir saja ke : [DikyArga.com] (http://dikyarga.com) disana ada link untuk ke social media + chat Telegram saya 😄
